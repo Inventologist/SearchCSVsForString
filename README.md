@@ -1,4 +1,4 @@
-# SearchCSVsForString
+# SearchFilesForString
 Quick search for a string in a set of CSVs exported from any system.
 
 This will go through any CSVs in a directory (maybe we could get this to do Excel also??)
