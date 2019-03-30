@@ -3,7 +3,7 @@
 #Perform Match on each with for loop.
 #Need Table Format, Autosize
 
-Function FindStringInFiles {
+Function SearchFilesForString {
 param (
 [parameter (Mandatory=$false)]$SearchString,
 [parameter (Mandatory=$false)]$FileLocation,
